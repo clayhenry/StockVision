@@ -15,8 +15,7 @@ namespace StockVision
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
-                "Server=tcp:clayhenry.database.windows.net,1433;Initial Catalog=clayhenry;Persist Security Info=False;User ID=clayhenry;Password=Osieczna1@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
+            
             services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddMvc();
         }
