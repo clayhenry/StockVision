@@ -1,0 +1,10 @@
+/home/pawel/RiderProjects/StockVision/StockVision/bin/Debug/netcoreapp1.1/StockVision.deps.json
+/home/pawel/RiderProjects/StockVision/StockVision/bin/Debug/netcoreapp1.1/StockVision.runtimeconfig.json
+/home/pawel/RiderProjects/StockVision/StockVision/bin/Debug/netcoreapp1.1/StockVision.runtimeconfig.dev.json
+/home/pawel/RiderProjects/StockVision/StockVision/bin/Debug/netcoreapp1.1/StockVision.dll
+/home/pawel/RiderProjects/StockVision/StockVision/bin/Debug/netcoreapp1.1/StockVision.pdb
+/home/pawel/RiderProjects/StockVision/StockVision/obj/Debug/netcoreapp1.1/StockVision.csprojResolveAssemblyReference.cache
+/home/pawel/RiderProjects/StockVision/StockVision/obj/Debug/netcoreapp1.1/StockVision.csproj.CoreCompileInputs.cache
+/home/pawel/RiderProjects/StockVision/StockVision/obj/Debug/netcoreapp1.1/StockVision.AssemblyInfo.cs
+/home/pawel/RiderProjects/StockVision/StockVision/obj/Debug/netcoreapp1.1/StockVision.dll
+/home/pawel/RiderProjects/StockVision/StockVision/obj/Debug/netcoreapp1.1/StockVision.pdb

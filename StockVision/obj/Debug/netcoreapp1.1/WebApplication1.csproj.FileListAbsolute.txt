@@ -1,0 +1,8 @@
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/bin/Debug/netcoreapp1.1/WebApplication1.deps.json
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/bin/Debug/netcoreapp1.1/WebApplication1.runtimeconfig.json
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/bin/Debug/netcoreapp1.1/WebApplication1.runtimeconfig.dev.json
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/bin/Debug/netcoreapp1.1/WebApplication1.dll
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/bin/Debug/netcoreapp1.1/WebApplication1.pdb
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/obj/Debug/netcoreapp1.1/WebApplication1.AssemblyInfo.cs
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/obj/Debug/netcoreapp1.1/WebApplication1.dll
+/home/pawel/RiderProjects/WebApplication1/WebApplication1/obj/Debug/netcoreapp1.1/WebApplication1.pdb
